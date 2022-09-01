@@ -1,1 +1,1 @@
-only
+star
