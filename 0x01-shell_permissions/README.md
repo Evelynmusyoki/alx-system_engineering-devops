@@ -1,1 +1,1 @@
-symbol
+only
