@@ -1,2 +1,2 @@
 #!/bin/bash
-u Vincent g staffn
+chown vincent:staff *
