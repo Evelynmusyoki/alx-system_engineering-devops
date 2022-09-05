@@ -1,1 +1,1 @@
-display all lines in file
+display letter only
