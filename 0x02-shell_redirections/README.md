@@ -1,1 +1,1 @@
-delete regular fils
+count number of dir
