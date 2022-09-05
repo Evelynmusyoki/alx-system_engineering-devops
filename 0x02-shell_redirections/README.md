@@ -1,1 +1,1 @@
-display lines containing root
+display all lines in file
