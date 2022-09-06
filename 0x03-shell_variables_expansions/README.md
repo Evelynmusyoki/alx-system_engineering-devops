@@ -1,1 +1,1 @@
-create global var
+true k
