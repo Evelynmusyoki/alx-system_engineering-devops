@@ -1,1 +1,1 @@
-counts dir
+list global var
