@@ -1,1 +1,1 @@
-decimal to hexa
+prints line from input
