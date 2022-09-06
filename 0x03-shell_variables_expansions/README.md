@@ -1,1 +1,1 @@
-list global var
+list local var
