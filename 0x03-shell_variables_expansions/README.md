@@ -1,1 +1,1 @@
-prints line from input
+adds 2 numbers
