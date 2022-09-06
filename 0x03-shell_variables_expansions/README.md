@@ -1,1 +1,1 @@
-true k
+divide and rule
